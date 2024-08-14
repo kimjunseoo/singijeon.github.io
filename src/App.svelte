@@ -17,7 +17,7 @@
 		</div>
 	</div>
 	<div class="image-placeholder">
-		<img src="/singijeon_demo.gif" alt="" />
+		<img src="singijeon_demo.gif" alt="asdasd" />
 	</div>
 </main>
 
