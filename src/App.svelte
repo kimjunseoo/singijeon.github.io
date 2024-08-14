@@ -75,10 +75,10 @@
 		margin-right: 10px;
 	}
 
-	/* .buttons a.secondary {
+	.buttons a.secondary {
 		background-color: transparent;
 		color: #000;
-	} */
+	}
 
 	.image-placeholder {
 		width: 100%;
